@@ -39,3 +39,5 @@
 - registry.npmmirror.com 【阿里NPM源（用于安装chrome或者edge驱动）】
 - rap2api.taobao.org 【淘宝mock接口，用于检测更新，如果不需要检测更新可以屏蔽】
 
+下载：https://github.com/XedGo/douyin-safe-dun/releases
+
