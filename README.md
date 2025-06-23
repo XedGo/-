@@ -19,7 +19,8 @@
 - 是否开通过视频带货
 - 用户等级
 
-![输入图片说明](image.png)
+![image](https://github.com/user-attachments/assets/6e2b7d69-4522-4f36-a9e4-9748513c80cf)
+
 
 
 #### 原理及安全性
